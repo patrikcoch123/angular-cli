@@ -30,6 +30,7 @@ var_5: &only_release_branches
     branches:
       only:
         - master
+        - v13-esm-test
         - /\d+\.\d+\.x/
 
 # Executor Definitions
