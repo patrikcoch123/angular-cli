@@ -1,2 +1,2 @@
-FROM node:14.18-bullseye-slim
+FROM node:fermium-bullseye-slim
 ENTRYPOINT [ "sh" ]
