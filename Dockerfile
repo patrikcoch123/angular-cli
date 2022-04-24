@@ -1,2 +1,2 @@
-FROM node:14.18-bullseye-slim
+FROM node:14-bullseye-slim
 ENTRYPOINT [ "sh" ]
